@@ -1,0 +1,13 @@
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\bin\Debug\MegaDesk-Halterman.exe.config
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\bin\Debug\MegaDesk-Halterman.exe
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\bin\Debug\MegaDesk-Halterman.pdb
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk-Halterman.csprojAssemblyReference.cache
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk_Halterman.AddQuote.resources
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk_Halterman.DisplayQuote.resources
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk_Halterman.MainMenu.resources
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk_Halterman.Properties.Resources.resources
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk_Halterman.SearchQuotes.resources
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk-Halterman.csproj.GenerateResource.cache
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk-Halterman.csproj.CoreCompileInputs.cache
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk-Halterman.exe
+C:\Users\Elise\Documents\School\1. Fall 2020\CIT 365 .NET Software\week 3\MegaDesk-Halterman\MegaDesk-Halterman\obj\Debug\MegaDesk-Halterman.pdb
